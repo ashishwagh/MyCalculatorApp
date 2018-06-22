@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCalculatorApplication</string>
+    <string name="facebook_app_id">197204967783810</string>
+    <string name="fb_login_protocol_scheme">fb487680895019933</string>
+</resources>
